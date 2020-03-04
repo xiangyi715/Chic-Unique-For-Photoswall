@@ -79,22 +79,22 @@ html, body{
 }
 
 .item:nth-of-type(1) .bg{
-    background-image: url('https://i.loli.net/2020/02/19/9sVbFOf5KzGZn7x.jpg');
+    background-image: url('你的图片地址');
 }
 .item:nth-of-type(2) .bg{
-    background-image: url('https://i.loli.net/2020/02/19/Zn59bfX3ip87IPd.png');
+    background-image: url('你的图片地址');
 }
 .item:nth-of-type(3) .bg{
-    background-image: url('https://i.loli.net/2020/02/19/TVpeNKxw3ya5CFW.jpg');
+    background-image: url('你的图片地址');
 }
 .item:nth-of-type(4) .bg{
-    background-image: url('https://i.loli.net/2020/02/19/E8l2B4WtSI5bfwz.jpg');
+    background-image: url('你的图片地址');
 }
 .item:nth-of-type(5) .bg{
-    background-image: url('https://i.loli.net/2020/02/19/bxB3WfAmXQId6ue.png');
+    background-image: url('你的图片地址');
 }
 .item:nth-of-type(6) .bg{
-    background-image: url('https://i.loli.net/2020/02/19/hsylnu5ecYDMURz.jpg');
+    background-image: url('你的图片地址');
 }
 
 .item .title{
